@@ -1,0 +1,11 @@
+// * Creation Date: Nov 15, 2018 at 6 AM
+ 
+ n = 4;
+ m = 3;
+
+ profit = [310,380,350,285];
+ a_weight = [18,15,23,12];
+ volume = [480,650,580,390];
+ 
+ weight_cap = [10,16,8];
+ vol_cap = [6800,8700,5300];

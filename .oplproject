@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config default="false" name="Configuration1" category="opl">
+			<ref name="example1.mod" type="model">
+			</ref>
+		</config>
+		<config default="false" name="Configuration2" category="opl">
+			<ref name="example2.mod" type="model">
+			</ref>
+			<ref name="cargo_data.dat" type="data">
+			</ref>
+		</config>
+		<config default="false" name="Configuration3" category="opl">
+			<ref name="example2.mod" type="model">
+			</ref>
+			<ref name="cargo_matrix_data.dat" type="data">
+			</ref>
+		</config>
+		<config default="false" name="Configuration4" category="opl">
+			<ref name="example3.mod" type="model">
+			</ref>
+			<ref name="data_example3.dat" type="data">
+			</ref>
+			<ref name="settings_example3.ops" type="setting">
+			</ref>
+		</config>
+		<config default="true" name="hw8 q4 a_Config" category="opl">
+			<ref name="hw8 q4 a.mod" type="model">
+			</ref>
+			<ref name="hw8 q4 a_data.dat" type="data">
+			</ref>
+		</config>
+		<config default="false" name="hw8 q4 a_1" category="opl">
+			<ref name="hw8 q4 a_1.mod" type="model">
+			</ref>
+			<ref name="hw8 q4 a_data.dat" type="data">
+			</ref>
+		</config>
+		<config default="false" name="hw8 q4 b" category="opl">
+			<ref name="hw8 q4 b.mod" type="model">
+			</ref>
+			<ref name="hw8 q4 b data.dat" type="data">
+			</ref>
+		</config>
+		<config default="false" name="q4 b-1" category="opl">
+			<ref name="hw8 q4 b data.dat" type="data">
+			</ref>
+			<ref name="q4 b-1.mod" type="model">
+			</ref>
+		</config>
+		<config default="false" name="q4 b-2" category="opl">
+			<ref name="q4 b-2.mod" type="model">
+			</ref>
+			<ref name="hw8 q4 b data.dat" type="data">
+			</ref>
+		</config>
+		<config default="false" name="q4 b-3" category="opl">
+			<ref name="q4 b-3.mod" type="model">
+			</ref>
+			<ref name="q4 b-3.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
